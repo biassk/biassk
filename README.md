@@ -6,7 +6,14 @@ Atualmente, faço parte de um trabalho voluntário no Lab das Minas, um grupo de
 
   Estou constantemente em busca de aprendizado, desafios e oportunidades que me permitam crescer e contribuir com projetos inovadores e de impacto.
 
-  ## 📫 Vamos conversar
+  ## 🎯Meus Conhecimentos:
+<div align=left style="display: inline_block;">
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py,vscode,html,css,github,notion" />
+  </a>
+</div>
+
+  ## 📫 Vamos conversar:
 <a href = "mailto:beatrizsusaki@gmail.com">
   <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Instagram title=Instagram />
 </a>
